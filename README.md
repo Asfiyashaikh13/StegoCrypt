@@ -1,4 +1,5 @@
 StegoCrypt – Secure Steganography Tool
+
 StegoCrypt is a simple but powerful Python tool that hides secret messages or files (like PDFs) inside images. It uses encryption and hashing to make sure your data stays safe and untampered. Everything is done using a Jupyter Notebook, making it easy to understand and use.
 
  -> What It Does
